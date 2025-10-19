@@ -210,7 +210,7 @@ std::string fmt(double v) {
 
 int main() {
     // Набор размеров матриц. Можно менять на свои.
-    const std::vector<size_t> sizes = {100, 400, 700, 1000, 1500};
+    const std::vector<size_t> sizes = {80, 400, 700, 1000, 1500};
     // Повторы для усреднения (чем больше n — тем меньше повторов, чтобы не ждать долго)
     const unsigned repeats = 3;
 

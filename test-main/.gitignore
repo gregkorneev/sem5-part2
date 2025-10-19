@@ -1,9 +1,0 @@
-build/
-.vscode/
-*.log
-*.o
-*.obj
-*.exe
-__pycache__/
-*.pyc
-.DS_Store
